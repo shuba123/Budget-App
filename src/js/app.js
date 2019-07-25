@@ -1,4 +1,4 @@
-//BUDGET CONTROLLER
+//BUDGET CONTROLLER MODULE
 
 var budgetController = (function () {
 
